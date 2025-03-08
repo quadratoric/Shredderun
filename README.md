@@ -6,6 +6,8 @@ This is the source code for **Shredderun**, a game I create for **Code for a Cau
 
 I may eventually return to this project and implement the things I didn't have time for or update the code, but for now, I need a break. I will not be fixing bugs or solving issues relating to this project.
 
+Also note that this code was uploaded after I edited some prefabs and other assets to make the graphical art on the itch page, so some things may be different or broken if you try to compile the code.
+
 ## Credits
 - Code & Design - Quadratoric
 - SFX - Created using [jsfxr](https://sfxr.me/)
