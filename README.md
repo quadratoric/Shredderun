@@ -11,6 +11,6 @@ Also note that this code was uploaded after I edited some prefabs and other asse
 ## Credits
 - Code & Design - Quadratoric
 - SFX - Created using [jsfxr](https://sfxr.me/)
-- Music - *The Way Out* by Kevin MacLeod (incompetech.com) 
-Licensed under creative Commons: By Attribution 3.0 License
-http://creativecommons.org/licenses/by/3.0/
+- Music - *The Way Out* by Kevin MacLeod (incompetech.com)  
+Licensed under creative Commons: By Attribution 3.0 License  
+http://creativecommons.org/licenses/by/3.0/  
